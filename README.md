@@ -6,7 +6,7 @@ The application allows users to view movies, select seats, choose show timings a
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 The main purpose of this project is to provide a simple and attractive movie booking system where users can:
 

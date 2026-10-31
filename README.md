@@ -4,7 +4,7 @@ MoviePortal is a full-stack movie booking web application developed using Node.j
 
 The application allows users to view movies, select seats, choose show timings and book seats. It also handles a 15-minute transaction window and generates a random booking code and PDF receipt after successful booking.
 
---- 
+---  
 
 ## 📌 Project Overview
 
